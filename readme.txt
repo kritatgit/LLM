@@ -1,0 +1,1 @@
+Just type the command pipenv run chainlit run app.py to launch the app.
